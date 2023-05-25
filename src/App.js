@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+import greeting from "@imran-baitham/github-package-demo"
 
+greeting();
 function App() {
   return (
     <div className="App">
